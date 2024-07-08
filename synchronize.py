@@ -5,7 +5,8 @@ import re
 REPO_PATH = "./Dateien"
 PICTURES_PATH = "./Bilder"
 # Pfad anpassen!
-OBSIDIAN_PATH = "C:/Users/User/Kioku/Anki" # Change this to the path of your folder
+# Neuer Kommentar_mein_OBsidian_Pfad
+OBSIDIAN_PATH = "C:/Users/yasin/Repo" # Change this to the path of your folder
 OBSIDIAN_PICTURES_PATH = OBSIDIAN_PATH + "/Bilder"
 
 def synchronize_pictures():
